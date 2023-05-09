@@ -1,0 +1,41 @@
+.home{
+    padding:250px 0px;
+    background:no-repeat url("https://t3.ftcdn.net/jpg/02/34/09/24/360_F_234092401_jv2JZDvES6zocvLxNyVxoMDOGvRzg4rG.jpg");
+    background-size: 100%;
+    color:white;
+    box-sizing: border-box;
+    
+}
+.home h1{
+    padding-left:180px;
+}
+.home h3{
+    padding-left: 160px;
+}
+/* .home h1{
+
+    position: absolute;
+    top: 40%;
+    left: 40%;
+
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #f32170,
+            #ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.home h3{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #f32170,
+            #ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+} */

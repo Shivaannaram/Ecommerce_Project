@@ -1,0 +1,9 @@
+.link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.link:hover{
+    /* background-color: lightcyan;    */
+    border-radius: 20px;
+    color:#ffff;
+}
